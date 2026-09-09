@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_player","order":2,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"Room2","order":5,"path":"rooms/Room2/Room2.yy",},
+    {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"spr_tile","order":3,"path":"sprites/spr_tile/spr_tile.yy",},
+    {"name":"TileSet1","order":4,"path":"tilesets/TileSet1/TileSet1.yy",},
+  ],
+}
